@@ -40,6 +40,6 @@ export default {
   },
 
   axios: {
-    baseURL: 'https://likeshowbiz.net/'
+    baseURL: 'http://likeshowbiz.net/'
   }
 }
